@@ -1,0 +1,1 @@
+Implemented a Python-based CLI application with MySQL integration for user authentication, enabling users to securely login using stored credentials. Developed features for account balance inquiries, transaction history retrieval, withdrawals, and deposits, following rigorous Software Development Life Cycle (SDLC) practices for comprehensive functionality and reliability.
